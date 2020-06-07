@@ -1,7 +1,10 @@
 # esxi_6.7_info
 
 -- Need https://github.com/vmware/pyvmomi/tree/master/pyVim
+
 -- Need Python3.8. Install python3.8 for debian 10 (example)
+
+
 ```
 
 apt-get install -y build-essential checkinstall libreadline-gplv2-dev libncursesw5-dev libssl-dev \
