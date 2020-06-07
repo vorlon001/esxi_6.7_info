@@ -16,3 +16,5 @@ tar xf Python-3.8.2.tar.xz && cd Python-3.8.2
 ./configure --enable-optimizations
 make altinstall -j
 ```
+
+python3.8 demo.py
